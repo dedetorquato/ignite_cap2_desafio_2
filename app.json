@@ -17,6 +17,9 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#E5E5E5"
       }
+    },
+    "ios": {
+      "bundleIdentifier": "com.dede.torquato.savepass"
     }
   },
   "name": "savepass"
